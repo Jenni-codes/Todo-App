@@ -1,0 +1,56 @@
+.divStyle{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgb(8, 8, 47);
+    margin-left: 400px;
+    margin-top: 100px;
+
+}
+.todo{
+    padding-left: 150px;
+    font-size: 30px;
+    padding-top: 30px;
+    color:rgb(0, 208, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.enDiv{
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+    width: auto;
+}
+.task{
+    color:black;
+    text-align: center;
+    width:300px;
+    height: 35px;
+    border-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-style: none;
+}
+.in{
+    display: inline;
+}
+button{
+    background-color: green;
+    color: white;
+    height: 35px;
+    width: 100px;
+    border: 1px block green;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-style: none;
+    
+}
+button:hover{
+    background-color: brown;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+table{
+    color: white;
+    width: 100%;
+    margin-left: 50px;
+}
